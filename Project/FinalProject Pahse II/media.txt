@@ -1,0 +1,5 @@
+Game [code=moh, title=as, no_of_copies=22, weight=34.0]
+Album [code=51, title=kazab, no_of_copies=3, artist=bigsam, songs=hifa]
+Game [code=1235123, title=minecraft, no_of_copies=5, weight=53.0]
+Movie [code=1234, title=rambo, no_of_copies=0, rating=DR]
+Movie [code=spiderman, title=spider, no_of_copies=12, rating=HR]

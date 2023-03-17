@@ -1,0 +1,3 @@
+Customer [id=1234, name=ahmad, address=asdf, plan=LIMITED, mobile=3245, cart=[], rented=[1234]]
+Customer [id=123, name=mohammad, address=tulkarem, plan=UNLIMITED, mobile=1234423, cart=[], rented=[1234]]
+Customer [id=abc, name=mohammad, address=sadghfds, plan=LIMITED, mobile=7654366, cart=[], rented=[1234, moh]]
