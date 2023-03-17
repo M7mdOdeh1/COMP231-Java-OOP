@@ -1,0 +1,1 @@
+Customer [name=mohammad, address=aad, plan=LIMITED, cart=[], rented items =[]]
